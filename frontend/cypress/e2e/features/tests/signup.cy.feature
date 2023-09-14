@@ -1,7 +1,7 @@
-describe('Usuário adicionando música e deletando', () => {
+describe('Cadastro de artistas', () => {
   it('Tenta se cadastrar', () => {
     
-    cy.visit('localhost:5173/user/3/playlist/4');
+    cy.visit('localhost:5173/signup');
     
     cy.get("#email_input_field").type("someone2@example.com");
     
