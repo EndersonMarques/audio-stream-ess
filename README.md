@@ -1,4 +1,4 @@
-# Rodar projeto do backend
+![image](https://github.com/user-attachments/assets/a29e944e-71cf-492c-8492-ef6b3f3905b0)# Rodar projeto do backend
 1. Criar arquivo vazio .env.dev na pasta de backend
 2. Rodar a imagem do postgres com user postgres e senha docker, com porta 5432 e criar um banco de dados com o nome 'mydb'
 3. Selecionar o banco 'mydb'
@@ -26,3 +26,12 @@ npx prisma migrate dev
 ```
 npx prisma generate
 ```
+# Telas do projeto
+
+![image](https://github.com/user-attachments/assets/6387f4cb-d4f8-4943-a12b-307fa2b63e01)
+
+![image](https://github.com/user-attachments/assets/4d5abb89-ff90-4fb5-84f2-6c7f82f8b76f)
+
+![image](https://github.com/user-attachments/assets/e2bc1cdc-d439-459d-b382-df0920bf6183)
+
+
